@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "adsadashbhb",
+        "email": "user@gmail.com",
+        "password": "$2y$12$c5Kp7o0inbkfp0AsGya6a.kDmkpUVkDXy.4TZZMQFBtKlCTJl4qlC",
+        "rol": "user"
+    },
+    {
+        "nombre": "sandro",
+        "email": "sandro@gmail.com",
+        "password": "$2y$12$Rr\/KFx1.qnNR96VmNre8Lu\/4eyYyEbZ\/RLqTGYnAJgBMPOZuSPbjy",
+        "rol": "admin"
+    },
+    {
+        "nombre": "Joel Cid (eLMALO",
+        "email": "sandro123123@gmail.com",
+        "password": "$2y$12$tpG\/kFOJhuz0umevEVGv6OPFxnijd6D0f.RutzHpCF8irWDN\/Zb1.",
+        "rol": "Admin"
+    },
+    {
+        "nombre": "fsfsdf",
+        "email": "fsdfsfsdfs@gmail.com",
+        "password": "$2y$12$LWPSicG5B6b4xP5HIMi7g.7Edn9dgKD.HNjwPDHD.hgj1w0WobD9.",
+        "rol": "admin"
+    }
+]
